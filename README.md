@@ -2,8 +2,8 @@
 dynamon is GUI Development tools of Amazon DynamoDB
 
 # History
-Version 1.0.1  
-https://github.com/touchduck/dynamon/raw/master/release/1.0.1/Dynamon-aws.zip  
+Version 1.0.2
+https://github.com/touchduck/dynamon/raw/master/release/1.0.2/Dynamon-aws.zip  
 
 # System requirements  
 MacOS 10.10  
