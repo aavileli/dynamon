@@ -1,7 +1,7 @@
 # What is dynamon
 dynamon is GUI Development tools of Amazon DynamoDB
 
-# History
+# Downloads
 Version 1.0.2
 https://github.com/touchduck/dynamon/raw/master/release/1.0.2/Dynamon-aws.zip  
 
